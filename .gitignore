@@ -1,0 +1,4 @@
+__pycache__/
+*.csv
+datalabs_ml_amazon.ipynb
+train_local.py
